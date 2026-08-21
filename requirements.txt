@@ -1,5 +1,7 @@
 streamlit>=1.30
-scikit-learn>=1.6,<1.9
 pandas
-requests
+numpy
+scikit-learn>=1.6,<1.9
 beautifulsoup4
+requests
+shap>=0.44
